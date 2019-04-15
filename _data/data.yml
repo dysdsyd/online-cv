@@ -48,7 +48,7 @@ experiences:
       company: Analytics Vidhya, Gurugram
       details: |
         - Conducted research on various classification, regression and clustering algorithms to create content for blogs and course material for data science enthusiasts.
-	- Built a recommendation engine for the job portal using a hybrid recommender system in python and its deployment led to a saving of 120 man-hour per month of the MIS team. 
+        - Built a recommendation engine for the job portal using a hybrid recommender system in python and its deployment led to a saving of 120 man-hour per month of the MIS team. 
         
     - role: Summer Internship
       time: June 2015 - July 2015

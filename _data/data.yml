@@ -59,51 +59,40 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MedLens
+        link: "https://github.com/syeddanish41/MedLense"
+        tagline: "Used Bi-Directional Attention Flow network (BiDAF) to develop a web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: NOAA Sea Lion Population Count
+        link: "https://github.com/syeddanish41/kaggle-fisheries-steller-sea-lion"
+        tagline: "Implemented a fully connected convolutional neural net (FCNN) to count the number of different sea lions in aerial photographs. Also, experimented with U-Net and TIRAMISU semantic segmentation architectures."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Traffic Sign Recognition System
+        link: "https://github.com/syeddanish41/Traffic-Sign-Detection-Thesis"
+        tagline: "Augmented the ResNet'15 ConvNet with a detector box at the top layer to induce attention towards the traffic signs present in the frame. It increased the accuracy by 2\% on the LISA dataset as compared to vanilla ResNet."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Quora Question Pair Similarity
+        link: "https://github.com/syeddanish41/kaggle-question-pairs-quora"
+        tagline: "Built an ensemble of LSTM and XGBoost models with over 80 linguistic features (word2vec, SVD, TF-IDF etc) to predict the similarity between question pairs on the Quora platform."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Smart Shower
+        link: "#https://www.instructables.com/id/The-know-it-all-Shower/"
+        tagline: "Built a prototype of a smart shower using Arduino, which gets activated upon sensing the presence by using an ultrasonic sensor and responded by adjusting the water temperature."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

@@ -37,11 +37,11 @@ experiences:
       time: July 2017 – Present
       company: ZS Associates, Pune
       details: |
-        - Designed a real-time video recognition system to create a digital understanding of 			blackjack players at an entertainment center, which proposed over \$100MM of savings 			annually. Employed Mask R-CNN followed by a Fully ConvNet model to get the frame level 			information and stitched them in time using blackjack game play conventions. 
-        - Performed Monte-Carlo simulations to understand the customer journey and luck induced 		volatility in their play behavior to tailor the promotion techniques at an entertainment 		 center effectively.
-        - Implemented a multi-sized ConvNet with varying window sizes to detect and identify the 		adverse effects of a medical drug from live twitter feed. 
-        - Identified Key Opinion Leaders in the health-care domain from Twitter data by leveraging 		   page-rank algorithm.
-        - Implemented a LSTM based Autoencoder pipeline for a manufacturing client to analyze the 		  real-time sensor data and predict anomalies in their batch and suggested key-drivers for 			non-conformance.
+        - Designed a real-time video recognition system to create a digital understanding of blackjack players at an entertainment center, which proposed over \$100MM of savings 			annually. Employed Mask R-CNN followed by a Fully ConvNet model to get the frame level 			information and stitched them in time using blackjack game play conventions. 
+        - Performed Monte-Carlo simulations to understand the customer journey and luck induced volatility in their play behavior to tailor the promotion techniques at an entertainment 		 center effectively.
+        - Implemented a multi-sized ConvNet with varying window sizes to detect and identify the adverse effects of a medical drug from live twitter feed. 
+        - Identified Key Opinion Leaders in the health-care domain from Twitter data by leveraging page-rank algorithm.
+        - Implemented a LSTM based Autoencoder pipeline for a manufacturing client to analyze the real-time sensor data and predict anomalies in their batch and suggested key-drivers for 			non-conformance.
 
     - role: Data Science Intern
       time: Mar 2016 – July 2016
@@ -55,7 +55,7 @@ experiences:
       company: Texas Instruments - CEPD Lab, NSIT Delhi
       details: |
         - Worked on register level programming, Embedded Systems and PCB designing.
-        - Implemented a game of dodge the wall in Embedded C. Also, developed  a  motherboard from 			scratch to station microcontroller, display and other components.
+        - Implemented a game of dodge the wall in Embedded C. Also, developed  a  motherboard from scratch to station microcontroller, display and other components.
 
 projects:
     title: Projects

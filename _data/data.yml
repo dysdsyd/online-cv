@@ -34,7 +34,7 @@ education:
         
 experiences:
     - role: Data Science Associate
-      time: 2017 - Present
+      time: July 2017 – Present
       company: ZS Associates, Pune
       details: |
         - Designed a real-time video recognition system to create a digital understanding of 			blackjack players at an entertainment center, which proposed over \$100MM of savings 			annually. Employed Mask R-CNN followed by a Fully ConvNet model to get the frame level 			information and stitched them in time using blackjack game play conventions. 
@@ -43,31 +43,19 @@ experiences:
         - Identified Key Opinion Leaders in the health-care domain from Twitter data by leveraging 		   page-rank algorithm.
         - Implemented a LSTM based Autoencoder pipeline for a manufacturing client to analyze the 		  real-time sensor data and predict anomalies in their batch and suggested key-drivers for 			non-conformance.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Data Science Intern
+      time: Mar 2016 – July 2016
+      company: Analytics Vidhya, Gurugram
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+		- Conducted research on various classification, regression and clustering algorithms to 		create content for blogs and course material for data science enthusiasts.
+		- Built a recommendation engine for the job portal using a hybrid recommender system in 		python and its deployment led to a saving of 120 man-hour per month of the MIS team. 
+        
+    - role: Summer Internship
+      time: June 2015 - July 2015
+      company: Texas Instruments - CEPD Lab, NSIT Delhi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Worked on register level programming, Embedded Systems and PCB designing.
+        - Implemented a game of dodge the wall in Embedded C. Also, developed  a  motherboard from 			scratch to station microcontroller, display and other components.
 
 projects:
     title: Projects

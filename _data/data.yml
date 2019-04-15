@@ -71,7 +71,7 @@ projects:
 
       - title: Traffic Sign Recognition System
         link: "https://github.com/syeddanish41/Traffic-Sign-Detection-Thesis"
-        tagline: "Augmented the ResNet'15 ConvNet with a detector box at the top layer to induce attention towards the traffic signs present in the frame. It increased the accuracy by 2\% on the LISA dataset as compared to vanilla ResNet."
+        tagline: "Augmented the ResNet'15 ConvNet with a detector box at the top layer to induce attention towards the traffic signs present in the frame. It increased the accuracy by 2% on the LISA dataset as compared to vanilla ResNet."
 
       - title: Quora Question Pair Similarity
         link: "https://github.com/syeddanish41/kaggle-question-pairs-quora"

@@ -60,24 +60,24 @@ projects:
     title: Projects
     
     assignments:
-      - title: 3D Style Transfer
-      	tagline: "Currently working with Prof. Justin Johnson on combining 3D single image view synthesis and style transfer to achieve 3D stylistic editing of models."
-    
-      - title: MedLens
-        link: "https://github.com/syeddanish41/MedLense"
-        tagline: "Used Bi-Directional Attention Flow network (BiDAF) to develop a web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database."
-
-      - title: NOAA Sea Lion Population Count
-        link: "https://github.com/syeddanish41/kaggle-fisheries-steller-sea-lion"
-        tagline: "Implemented a fully connected convolutional neural net (FCNN) to count the number of different sea lions in aerial photographs. Also, experimented with U-Net and TIRAMISU semantic segmentation architectures."
-
-      - title: Traffic Sign Recognition System
-        link: "https://github.com/syeddanish41/Traffic-Sign-Detection-Thesis"
-        tagline: "Augmented the ResNet'15 ConvNet with a detector box at the top layer to induce attention towards the traffic signs present in the frame. It increased the accuracy by 2% on the LISA dataset as compared to vanilla ResNet."
-
-      - title: Quora Question Pair Similarity
-        link: "https://github.com/syeddanish41/kaggle-question-pairs-quora"
-        tagline: "Built an ensemble of LSTM and XGBoost models with over 80 linguistic features (word2vec, SVD, TF-IDF etc) to predict the similarity between question pairs on the Quora platform."
+     - title: 3D Style Transfer
+       tagline: "Currently working with Prof. Justin Johnson on combining 3D single image view synthesis and style transfer to achieve 3D stylistic editing of models."
+     
+     - title: MedLens
+       link: "https://github.com/syeddanish41/MedLense"
+       tagline: "Used Bi-Directional Attention Flow network (BiDAF) to develop a web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database."
+     
+     - title: NOAA Sea Lion Population Count
+       link: "https://github.com/syeddanish41/kaggle-fisheries-steller-sea-lion"
+       tagline: "Implemented a fully connected convolutional neural net (FCNN) to count the number of different sea lions in aerial photographs. Also, experimented with U-Net and TIRAMISU semantic segmentation architectures."
+     
+     - title: Traffic Sign Recognition System
+       link: "https://github.com/syeddanish41/Traffic-Sign-Detection-Thesis"
+       tagline: "Augmented the ResNet'15 ConvNet with a detector box at the top layer to induce attention towards the traffic signs present in the frame. It increased the accuracy by 2% on the LISA dataset as compared to vanilla ResNet."
+       
+     - title: Quora Question Pair Similarity
+       link: "https://github.com/syeddanish41/kaggle-question-pairs-quora"
+       tagline: "Built an ensemble of LSTM and XGBoost models with over 80 linguistic features (word2vec, SVD, TF-IDF etc) to predict the similarity between question pairs on the Quora platform."
 
 #publications:
 #    title: Publications

@@ -61,7 +61,7 @@ projects:
     
     assignments:
       - title: 3D Style Transfer
-        tagline: "Currently working with Prof. Justin Johnson on combining 3D single image view synthesis and style transfer to achieve 3D stylistic editing of models."
+      	tagline: "Currently working with Prof. Justin Johnson on combining 3D single image view synthesis and style transfer to achieve 3D stylistic editing of models."
     
       - title: MedLens
         link: "https://github.com/syeddanish41/MedLense"
